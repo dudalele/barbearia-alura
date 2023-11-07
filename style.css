@@ -1,10 +1,15 @@
 body {
-    background-color:#CCCCCC;
+    background-color:#0f9fdc;
 }
 
 #banner{
         width: 100%;
 }
+
+.principal
+
+
+
 h1 {
     color: blue
     
@@ -20,5 +25,18 @@ p {
 
 }
 em strong {
-   color:rgb(82, 197, 197)
+   color:rgba(95,5,175,0.814);
+}
+
+
+.itens {
+    font-size: italic;
+}
+
+.beneficios{
+    background-color: #00a2ff;
+}
+h2{
+    text-align: center;
+    
 }
