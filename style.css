@@ -6,13 +6,17 @@ body {
         width: 100%;
 }
 
-.principal
+.principal {
+    background-color: #00a2ffe6;
+    padding: 30px;
+    
+}
 
-
-
-h1 {
+.titulo-centralizado {
+    text-align:;
     color: blue
     
+
 }
 
 p {
@@ -36,7 +40,18 @@ em strong {
 .beneficios{
     background-color: #00a2ff;
 }
-h2{
+{
     text-align: center;
-    
+}
+
+
+ul {
+    display: inline-block ;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios{
+    width: 50%;
 }
